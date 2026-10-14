@@ -16,6 +16,9 @@
 # submodule; don't assume it will be available
 # ./standard/bbf/check.sh
 
+# submodule; don't assume it will be available
+# ./standard/freebsd/check.sh
+
 ./experimental/ieee/check.sh
 ./standard/ieee/check.sh
 ./standard/iana/check.sh

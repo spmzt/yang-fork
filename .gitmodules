@@ -49,3 +49,6 @@
 [submodule "standard/itu"]
 	path = standard/itu
 	url = https://github.com/openitu/YANG.git
+[submodule "standard/freebsd"]
+	path = standard/freebsd
+	url = https://github.com/spmzt/yang.git

@@ -34,6 +34,9 @@ jobs:
 
           # temporarily disable
           # ./standard/bbf/check.sh
+
+          # disable as imported as a submodule
+          # ./standard/freebsd/check.sh
           
           ./experimental/ieee/check.sh
           ./standard/ieee/check.sh

@@ -91,6 +91,7 @@ The following directories are maintained for YANG models [license note in bracke
 - **yang/standard/odp**: published modules for OpenDaylight [2]
 - **yang/standard/bbf/draft**: draft Broadband Forum YANG modules [6]
 - **yang/standard/bbf/standard**: standard Broadband Forum YANG modules [6]
+- **yang/standard/freebsd**: FreeBSD netlink YANG modules, one directory per release [7]
 - **yang/vendor**: contains vendor-specific YANG modules [any]
 - **yang/vendor/cisco**: Cisco YANG modules [4] 
 - **yang/vendor/netconfcentral**: Netconf Central YANG modules [4]
@@ -129,6 +130,10 @@ The following directories are maintained for YANG models [license note in bracke
 **[6] Broadband Forum License:**
 
   * All files contained within this sub-directory are provided under the terms of the Broadband Forum Software license (see Appendix C, Section 3, of https://www.broadband-forum.org/ipr-policy).
+
+**[7] FreeBSD License:**
+
+  * All files contained within this sub-directory are provided under the terms of the BSD 2-Clause License (see the LICENSE file of the submodule, https://github.com/spmzt/yang).
   
   
 # Code of Conduct
